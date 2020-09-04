@@ -6,7 +6,7 @@
     "consolidate": "~0.13.1",
     "handlebars": "~4.0.5",
     "body-parser": "~1.14.1",
-    "mongodb": "~2.0.50",
+    "mongodb": "~3.6.1",
     "mocha": "~2.3.4",
     "chai": "~3.4.1"
   }
